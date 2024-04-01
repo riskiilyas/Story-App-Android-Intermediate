@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LiveStoryByRiski</string>
+    <string name="logo_description">icon</string>
+    <string name="email_hint">example@email.com</string>
+    <string name="password_hint">password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="image_story">Image Story</string>
+    <string name="fab_add">Add Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_story">Enter your story</string>
+    <string name="login_as_guest">Login As Guest</string>
+    <string name="splash">Splash</string>
+    <string name="name_hint">Name</string>
+    <string name="refresh">Refresh</string>
+    <string name="description_desc">Description:</string>
+    <string name="name">Name: %1$s</string>
+    <string name="created_at">Created at: %1$s</string>
+    <string name="logout_title">Logout</string>
+    <string name="retry">Retry</string>
+    <string name="include_location">Include Location</string>
+    <string name="map_title">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location">Location: %1$s</string>
+</resources>
